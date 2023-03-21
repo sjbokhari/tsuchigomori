@@ -157,10 +157,10 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="Kunden" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="80" width="60" height="60" as="geometry"/>
+                    <mxGeometry x="180" y="80" width="60" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Seller" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="240" width="60" height="60" as="geometry"/>
+                    <mxGeometry x="180" y="260" width="60" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="no" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41" target="44">
                     <mxGeometry relative="1" as="geometry"/>
@@ -183,14 +183,14 @@
                 <mxCell id="49" value="Admin UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="360" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="51" target="49">
+                <mxCell id="60" value="severIP:Port" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="51" target="49">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="630" y="280" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="Stock" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="160" width="60" height="60" as="geometry"/>
+                    <mxGeometry x="180" y="170" width="60" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
