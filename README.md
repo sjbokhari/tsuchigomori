@@ -1,5 +1,5 @@
 
-![Logo](https://www.nautiljon.com/images/manga_persos/00/36/tsuchigomori_8563.webp?0)
+<!-- ![Logo](https://www.nautiljon.com/images/manga_persos/00/36/tsuchigomori_8563.webp?0) -->
 
 
 # tsuchigomori
