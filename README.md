@@ -26,7 +26,7 @@ Please Create an ```.env``` file and fill the following fields:
 |---|---|
 | `MYSQL_URL`  |  localhost |  
 | `MYSQL_PORT`  | 3303  |  
-| `MYSQL_USER |  root |
+| `MYSQL_USER` |  root |
 | `MYSQL_PASSWORD` | SECUREPASSWORD  |
 | `MYSQL_DATABASE` |  pybase |
 
