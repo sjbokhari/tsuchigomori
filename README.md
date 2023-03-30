@@ -9,23 +9,25 @@ tsuchigomori (土籠龍仁郎) is a simple tool for extracting the information f
 The name reference comes from the manga series Jibaku Shōnen Hanako-kun and represents the 5th myth.
 ## Tech Stack
 
+Server structure is oriented to [fast-api-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) and used its given [template](https://github.com/zhanymkanov/fastapi_production_template)
+
 **Client:** TBA
 
-**Server:** Python, FastAPI, Selenium, SQLAlchemy
+**Server:** Python, FastAPI
 
-**Database:** MySQL
+**Database:** Postgres
 
 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
-Please Create an ```.env``` file and fill the following fields:
+Please Create an ```.env``` file or rename the ```.env.example``and fill in the following fields:
 
-|Field| Example Values  
+|Field| Example Values
 |---|---|
-| `MYSQL_URL`  |  localhost |  
-| `MYSQL_PORT`  | 3303  |  
+| `MYSQL_URL`  |  localhost |
+| `MYSQL_PORT`  | 3303  |
 | `MYSQL_USER` |  root |
 | `MYSQL_PASSWORD` | SECUREPASSWORD  |
 | `MYSQL_DATABASE` |  pybase |
