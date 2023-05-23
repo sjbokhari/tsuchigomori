@@ -5,7 +5,7 @@ Scrapy==2.8.0
 -r base.txt
 black==22.12.0
 isort==5.11.4
-autoflake==2.0.0
+autoflake==2.1.1
 coverage==7.0.3
 flake8==6.0.0
 mypy==0.991
