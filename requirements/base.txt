@@ -1,5 +1,5 @@
 aioredis==2.0.1
-alembic==1.10.2
+alembic==1.11.1
 bcrypt
 #databases[asyncpg]==0.7.0
 orjson==3.8.4
