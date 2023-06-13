@@ -10,7 +10,7 @@ httpx==0.24.1
 
 pydantic[email]==1.10.9
 fastapi==0.96.0
-uvicorn[standard]==0.20.0
+uvicorn[standard]==0.22.0
 
 bs4==4.12.0
 
