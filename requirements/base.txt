@@ -5,7 +5,7 @@ bcrypt
 orjson==3.8.4
 psycopg2==2.9.6
 python-jose==3.3.0
-SQLAlchemy==2.0.15
+SQLAlchemy==2.0.17
 httpx==0.24.1
 
 pydantic[email]==1.10.9
