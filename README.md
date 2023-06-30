@@ -4,21 +4,11 @@
 
 # tsuchigomori
 
-tsuchigomori (土籠龍仁郎) is a simple tool for extracting the information from the german website "gelbe seiten". It is a diffrent type of API. Written with Python using the selenium framework. As a database it uses MySQL with the SQLAlchemy ORM for mapping the entries.
+tsuchigomori (土籠龍仁郎) is a simple tool for extracting the information from the german website "gelbe seiten". It is a diffrent type of API. Written with Go using colly for scraping. As a database it uses MySQL with the Gorm ORM for mapping the entries. As API it would be fitting to choose echo. It is in planing to include a kinda admin page for interacting on a nice enviroment.
 
-The name reference comes from the manga series Jibaku Shōnen Hanako-kun and represents the 5th myth.
-## Tech Stack
+The name reference comes from the manga series Jibaku Shōnen Hanako-kun (地縛少年花子くん) and represents the 5th myth. As well the wordplay for the number 5 (五, go) and the main language golang to be used.
 
-Server structure is oriented to [fast-api-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) and used its given [template](https://github.com/zhanymkanov/fastapi_production_template)
-
-**Client:** TBA
-
-**Server:** Python, FastAPI
-
-**Database:** Postgres
-
-
-## Environment Variables
+<!-- ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -30,7 +20,7 @@ Please Create an ```.env``` file or rename the ```.env.example``and fill in the 
 | `MYSQL_PORT`  | 3303  |
 | `MYSQL_USER` |  root |
 | `MYSQL_PASSWORD` | SECUREPASSWORD  |
-| `MYSQL_DATABASE` |  pybase |
+| `MYSQL_DATABASE` |  gobase |
 
 
 ## Usage
@@ -71,7 +61,7 @@ Takes two numbers and returns the sum.
 
 ## Deployment
 
-To deploy this project ... please wait :) TBA
+To deploy this project ... please wait :) TBA -->
 
 
 
@@ -82,10 +72,11 @@ For support, email to shehryar@bokhari.de
 
 ## License
 
-[TBA](https://choosealicense.com/licenses/)
+[GNU General Public License](./LICENSE)
 
 
 ## Authors
 
 - [@sjbokhari](https://www.github.com/sjbokhari)
+- [usmanmalik](https://www.github.com)
 
