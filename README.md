@@ -6,7 +6,7 @@
 
 tsuchigomori (土籠龍仁郎) is a simple tool for extracting the information from the german website "gelbe seiten". It is a diffrent type of API. Written with Go using colly for scraping. As a database it uses MySQL with the Gorm ORM for mapping the entries. As API it would be fitting to choose echo. It is in planing to include a kinda admin page for interacting on a nice enviroment.
 
-The name reference comes from the manga series Jibaku Shōnen Hanako-kun (地縛少年花子くん) and represents the 5th myth. As well the wordplay for the number 5 (五, go) and the main language golang to be used.
+The name reference comes from the manga series Jibaku Shōnen Hanako-kun (地縛少年花子くん) and represents the 5th myth. As well the wordplay for the number 5 (五, go) and the main language golang to be used. 
 
 <!-- ## Environment Variables
 
